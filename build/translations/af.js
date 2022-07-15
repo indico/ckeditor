@@ -1,6 +1,6 @@
 !(function (e) {
-  const o = (e.af = e.af || {});
-  (o.dictionary = Object.assign(o.dictionary || {}, {
+  const r = (e.af = e.af || {});
+  (r.dictionary = Object.assign(r.dictionary || {}, {
     "%0 of %1": "%0 van %1",
     "Block quote": "Verwysingsaanhaling",
     Bold: "Vet",
@@ -20,6 +20,7 @@
     Replace: "Vervang",
     "Replace all": "Vervang alles",
     "Replace with…": "Vervang met ...",
+    "Restore default": "Herstel verstek",
     Save: "Stoor",
     "Show more items": "Wys meer items",
     "Show options": "Wys opsies",
@@ -32,7 +33,7 @@
     Underline: "Onderstreep",
     "Whole words only": "Slegs hele woorde",
   })),
-    (o.getPluralForm = function (e) {
+    (r.getPluralForm = function (e) {
       return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));
