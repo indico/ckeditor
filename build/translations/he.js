@@ -61,6 +61,7 @@
     Red: "",
     Redo: "ביצוע מחדש",
     "Remove color": "",
+    "Restore default": "",
     "Rich Text Editor": "עורך טקסט עשיר",
     "Rich Text Editor, %0": "עורך טקסט עשיר, %0",
     "Right aligned image": "תמונה מיושרת לימין",
