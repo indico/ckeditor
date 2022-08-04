@@ -68,6 +68,7 @@
     "Horizontal text alignment toolbar":
       "Γραμμή εργαλείων οριζόντιας στοίχισης κειμένου",
     "HTML object": "Αντικείμενο HTML",
+    "Image resize list": "Λίστα μεγεθών εικόνων",
     "Image toolbar": "Γραμμή εργαλείων εικόνας",
     "image widget": "Γραφικό στοιχείο εικόνας",
     "In line": "Εντός γραμμής",
@@ -108,6 +109,7 @@
     "Open in a new tab": "Άνοιγμα σε νέα καρτέλα",
     "Open link in new tab": "Άνοιγμα συνδέσμου σε νέα καρτέλα",
     Orange: "Πορτοκαλί",
+    Original: "Αρχικό",
     Outset: "Κείμενο με ύψος",
     Padding: "Απόσταση κειμένου από το περίγραμμα",
     Paragraph: "Παράγραφος",
@@ -124,6 +126,10 @@
     Replace: "Αντικατάσταση",
     "Replace all": "Αντικατάσταση όλων",
     "Replace with…": "Αντικατάσταση με...",
+    "Resize image": "Αλλαγή μεγέθους εικόνας",
+    "Resize image to %0": "Αλλαγή μεγέθους σε %0",
+    "Resize image to the original size":
+      "Αλλαγή μεγέθους εικόνας στο αρχικό μέγεθος",
     "Restore default": "Επαναφορά προεπιλογής",
     "Rich Text Editor": "Επεξεργαστής εμπλουτισμένου κειμένου",
     "Rich Text Editor, %0": "Επεξεργαστής εμπλουτισμένου κειμένου, %0",

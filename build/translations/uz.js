@@ -63,6 +63,7 @@
     Height: "Balandligi",
     "Horizontal text alignment toolbar":
       "Matnni gorizontal tekislash asboblar paneli",
+    "Image resize list": "Hajmlar ro'yxati",
     "Image toolbar": "Rasm asboblari paneli",
     "image widget": "Tasvirlar vidjeti",
     "In line": "",
@@ -101,6 +102,7 @@
     "Open in a new tab": "Yangi oynada oching",
     "Open link in new tab": "Havolani yangi oynada ochish",
     Orange: "To'q sariq",
+    Original: "Asl",
     Outset: "Qavariq",
     Padding: "Chekinish",
     Paragraph: "Paragraf",
@@ -113,6 +115,10 @@
     Redo: "Takrorlash",
     "Remove color": "Rangni olib tashlash",
     "Remove Format": "Formatlashni olib tashlash",
+    "Resize image": "Rasm hajmini o'zgartirish",
+    "Resize image to %0": "Rasm hajmini %0 ga o‘zgartirish",
+    "Resize image to the original size":
+      "Rasmning o'lchamini asl o'lchamiga o'zgartiring",
     "Restore default": "",
     "Rich Text Editor": "Tahrirlovchi",
     "Rich Text Editor, %0": "Tahrirlovchi, %0",

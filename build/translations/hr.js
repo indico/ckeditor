@@ -68,6 +68,7 @@
     "Horizontal text alignment toolbar":
       "Alatna traka za horizontalno poravnanje teksta",
     "HTML object": "HTML objekt",
+    "Image resize list": "Lista veličina slika",
     "Image toolbar": "Traka za slike",
     "image widget": "Slika widget",
     "In line": "U istom redu",
@@ -108,6 +109,7 @@
     "Open in a new tab": "Otvori u novoj kartici",
     "Open link in new tab": "Otvori vezu u novoj kartici",
     Orange: "Narančasta",
+    Original: "Original",
     Outset: "",
     Padding: "Podstava",
     Paragraph: "Paragraf",
@@ -123,6 +125,10 @@
     Replace: "Zamijeni",
     "Replace all": "Zamijeni sve",
     "Replace with…": "Zamijeni sa....",
+    "Resize image": "Promijeni veličinu slike",
+    "Resize image to %0": "Promijeni veličinu slike u %0",
+    "Resize image to the original size":
+      "Vrati veličinu slike na originalnu veličinu",
     "Restore default": "Vrati tvorničke postavke",
     "Rich Text Editor": "Rich Text Editor",
     "Rich Text Editor, %0": "Rich Text Editor, %0",
