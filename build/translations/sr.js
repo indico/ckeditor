@@ -68,6 +68,7 @@
     "Horizontal text alignment toolbar":
       "Хоризонтална трака са алаткама за поравнање текста",
     "HTML object": "ХТМЛ објекат ",
+    "Image resize list": "Листа величине слике",
     "Image toolbar": "Слика трака са алтакама",
     "image widget": "модул са сликом",
     "In line": "У реду",
@@ -108,6 +109,7 @@
     "Open in a new tab": "Отвори у новој картици",
     "Open link in new tab": "Отвори линк у новом прозору",
     Orange: "Нараџаста",
+    Original: "Оригинал",
     Outset: "Почетак",
     Padding: "Постављање",
     Paragraph: "Пасус",
@@ -123,6 +125,10 @@
     Replace: "Замени",
     "Replace all": "Замени све",
     "Replace with…": "Замени са…",
+    "Resize image": "Промените величину слике",
+    "Resize image to %0": "Промените величину слике на% 0",
+    "Resize image to the original size":
+      "Промените величину слике до оригиналне величине",
     "Restore default": "Врати подразумевано",
     "Rich Text Editor": "Проширен уређивач текста",
     "Rich Text Editor, %0": "Проширени уређивач текста, %0",

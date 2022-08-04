@@ -1,6 +1,6 @@
 !(function (e) {
-  const t = (e.ro = e.ro || {});
-  (t.dictionary = Object.assign(t.dictionary || {}, {
+  const i = (e.ro = e.ro || {});
+  (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "%0 din %1",
     "Align cell text to the bottom": "Alinează textul celulei jos",
     "Align cell text to the center": "Alinează textul celulei la centru",
@@ -63,6 +63,7 @@
     Height: "Înălțime",
     "Horizontal line": "Linie orizontală",
     "Horizontal text alignment toolbar": "Toolbar aliniere text orizontală",
+    "Image resize list": "Lista cu mărimi de redimensionare",
     "Image toolbar": "Bară imagine",
     "image widget": "widget imagine",
     "In line": "",
@@ -101,6 +102,7 @@
     "Open in a new tab": "Deschide în tab nou",
     "Open link in new tab": "Deschide link în tab nou",
     Orange: "Portocaliu",
+    Original: "Original",
     Outset: "Elimină",
     Padding: "Spațiere",
     Paragraph: "Paragraf",
@@ -112,6 +114,10 @@
     Redo: "Revenire",
     "Remove color": "Șterge culoare",
     "Remove Format": "Șterge formatare",
+    "Resize image": "Redimensionează imaginea",
+    "Resize image to %0": "Redimensionează imaginea la %0",
+    "Resize image to the original size":
+      "Redimensionează imaginea la mărimea originală",
     "Restore default": "Reface la default",
     "Rich Text Editor": "Editor de text",
     "Rich Text Editor, %0": "Editor de text, %0",
@@ -162,7 +168,7 @@
     "Wrap text": "",
     Yellow: "Galben",
   })),
-    (t.getPluralForm = function (e) {
+    (i.getPluralForm = function (e) {
       return 1 == e ? 0 : e % 100 > 19 || (e % 100 == 0 && 0 != e) ? 2 : 1;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));

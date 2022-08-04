@@ -1,6 +1,6 @@
 !(function (e) {
-  const t = (e.lt = e.lt || {});
-  (t.dictionary = Object.assign(t.dictionary || {}, {
+  const i = (e.lt = e.lt || {});
+  (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
@@ -62,6 +62,7 @@
     "Heading 6": "Antraštė 6",
     Height: "",
     "Horizontal text alignment toolbar": "",
+    "Image resize list": "",
     "Image toolbar": "",
     "image widget": "vaizdų valdiklis",
     "In line": "",
@@ -97,6 +98,7 @@
     "Open in a new tab": "",
     "Open link in new tab": "Atidaryti nuorodą naujame skirtuke",
     Orange: "Oranžinė",
+    Original: "",
     Outset: "",
     Padding: "",
     Paragraph: "Paragrafas",
@@ -108,6 +110,9 @@
     Redo: "Pirmyn",
     "Remove color": "Pašalinti spalvą",
     "Remove Format": "Naikinti formatavimą",
+    "Resize image": "",
+    "Resize image to %0": "",
+    "Resize image to the original size": "",
     "Restore default": "",
     "Rich Text Editor": "Raiškiojo teksto redaktorius",
     "Rich Text Editor, %0": "Raiškiojo teksto redaktorius, %0",
@@ -154,7 +159,7 @@
     "Wrap text": "",
     Yellow: "Geltona",
   })),
-    (t.getPluralForm = function (e) {
+    (i.getPluralForm = function (e) {
       return e % 10 == 1 && (e % 100 > 19 || e % 100 < 11)
         ? 0
         : e % 10 >= 2 && e % 10 <= 9 && (e % 100 > 19 || e % 100 < 11)
