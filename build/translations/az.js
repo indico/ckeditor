@@ -1,6 +1,6 @@
 !(function (e) {
-  const t = (e.az = e.az || {});
-  (t.dictionary = Object.assign(t.dictionary || {}, {
+  const i = (e.az = e.az || {});
+  (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "%1-dən %0",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
@@ -63,6 +63,7 @@
     Height: "Hündürlük",
     "Horizontal line": "Üfüqi xətt",
     "Horizontal text alignment toolbar": "",
+    "Image resize list": "",
     "Image toolbar": "Şəkil paneli",
     "image widget": "Şəkil vidgetı",
     "In line": "",
@@ -101,6 +102,7 @@
     "Open in a new tab": "Yeni pəncərədə aç",
     "Open link in new tab": "Linki yeni pəncərədə aç",
     Orange: "Narıncı",
+    Original: "",
     Outset: "",
     Padding: "",
     Paragraph: "Abzas",
@@ -112,6 +114,9 @@
     Redo: "Təkrar et",
     "Remove color": "Rəngi ləğv et",
     "Remove Format": "Formatı Ləğv Et",
+    "Resize image": "",
+    "Resize image to %0": "",
+    "Resize image to the original size": "",
     "Restore default": "",
     "Rich Text Editor": "Rich Text Redaktoru",
     "Rich Text Editor, %0": "Rich Text Redaktoru, %0",
@@ -159,7 +164,7 @@
     "Wrap text": "",
     Yellow: "Sarı",
   })),
-    (t.getPluralForm = function (e) {
+    (i.getPluralForm = function (e) {
       return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));

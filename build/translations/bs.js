@@ -1,6 +1,6 @@
 !(function (e) {
-  const a = (e.bs = e.bs || {});
-  (a.dictionary = Object.assign(a.dictionary || {}, {
+  const i = (e.bs = e.bs || {});
+  (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "%0 od %1",
     "Block quote": "Citat",
     Bold: "Podebljano",
@@ -26,6 +26,7 @@
     "Heading 5": "Naslov 5",
     "Heading 6": "Naslov 6",
     "Horizontal line": "Horizontalna linija",
+    "Image resize list": "Lista veličina slike",
     "Image toolbar": "",
     "image widget": "",
     "In line": "",
@@ -37,6 +38,7 @@
     "Left aligned image": "Lijevo poravnata slika",
     "Match case": "Podudaranje",
     "Next result": "",
+    Original: "Original",
     Paragraph: "Paragraf",
     "Plain text": "Tekst",
     "Previous result": "Prethodni rezultat",
@@ -44,6 +46,9 @@
     Replace: "Zamijeni",
     "Replace all": "Zamijeni sve",
     "Replace with…": "Zamijeni sa...",
+    "Resize image": "Promijeni veličinu slike",
+    "Resize image to %0": "",
+    "Resize image to the original size": "Postavi originalnu veličinu slike",
     "Restore default": "Vrati na zadano",
     "Right aligned image": "Desno poravnata slika",
     Save: "Sačuvaj",
@@ -63,7 +68,7 @@
     "Whole words only": "Samo cijele riječi",
     "Wrap text": "Prelomi tekst",
   })),
-    (a.getPluralForm = function (e) {
+    (i.getPluralForm = function (e) {
       return e % 10 == 1 && e % 100 != 11
         ? 0
         : e % 10 >= 2 && e % 10 <= 4 && (e % 100 < 10 || e % 100 >= 20)

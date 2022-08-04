@@ -64,6 +64,7 @@
     "Horizontal line": "Горизонтальна лінія",
     "Horizontal text alignment toolbar":
       "Панель інструментів вирівнювання горизонтального тексту",
+    "Image resize list": "Перелік розмірів",
     "Image toolbar": "Панелі інструментів зображення",
     "image widget": "Віджет зображення",
     "In line": "",
@@ -102,6 +103,7 @@
     "Open in a new tab": "Вікрити у новій вкладці",
     "Open link in new tab": "Відкрити посилання у новій вкладці",
     Orange: "Помаранчевий",
+    Original: "Оригінал",
     Outset: "Випукла",
     Padding: "Заповнення",
     Paragraph: "Параграф",
@@ -113,6 +115,10 @@
     Redo: "Повтор",
     "Remove color": "Видалити колір",
     "Remove Format": "Видалити форматування",
+    "Resize image": "Розтягнути зображення",
+    "Resize image to %0": "Розтягнути зображення до %0",
+    "Resize image to the original size":
+      "Розтягнути зображення до оригінального розміру",
     "Restore default": "",
     "Rich Text Editor": "Розширений текстовий редактор",
     "Rich Text Editor, %0": "Розширений текстовий редактор, %0",
