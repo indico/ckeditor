@@ -68,6 +68,7 @@
     "Horizontal text alignment toolbar":
       "Панель инструментов горизонтального выравнивания текста",
     "HTML object": "HTML объект",
+    "Image resize list": "Список размеров",
     "Image toolbar": "Панель инструментов изображения",
     "image widget": "Виджет изображений",
     "In line": "В тексте",
@@ -108,6 +109,7 @@
     "Open in a new tab": "Открыть в новой вкладке",
     "Open link in new tab": "Открыть ссылку в новой вкладке",
     Orange: "Оранжевый",
+    Original: "Оригинальный",
     Outset: "Выпуклая",
     Padding: "Отступ",
     Paragraph: "Параграф",
@@ -123,6 +125,10 @@
     Replace: "Заменить",
     "Replace all": "Заменить всё",
     "Replace with…": "Заменить на...",
+    "Resize image": "Изменить размер изображения",
+    "Resize image to %0": "Изменить размер изображения до %0",
+    "Resize image to the original size":
+      "Вернуть размер изображения к оригинальному",
     "Restore default": "По умолчанию",
     "Rich Text Editor": "Редактор",
     "Rich Text Editor, %0": "Редактор, %0",
