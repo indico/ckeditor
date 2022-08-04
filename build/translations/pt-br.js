@@ -68,6 +68,7 @@
     "Horizontal text alignment toolbar":
       "Ferramentas de alinhamento horizontal do texto",
     "HTML object": "Objeto HTML",
+    "Image resize list": "Lista de redimensionamento de imagem",
     "Image toolbar": "Ferramentas de Imagem",
     "image widget": "Ferramenta de imagem",
     "In line": "Na linha",
@@ -108,6 +109,7 @@
     "Open in a new tab": "Abrir em nova aba",
     "Open link in new tab": "Abrir link em nova aba",
     Orange: "Laranja",
+    Original: "Original",
     Outset: "Alto relevo",
     Padding: "Margem interna",
     Paragraph: "Parágrafo",
@@ -123,6 +125,10 @@
     Replace: "Substituir",
     "Replace all": "Substituir tudo",
     "Replace with…": "Substituir por...",
+    "Resize image": "Redimensionar imagem",
+    "Resize image to %0": "Redimensionar a imagem para %0",
+    "Resize image to the original size":
+      "Redimensionar a imagem para o tamanho original",
     "Restore default": "Restaurar padrão",
     "Rich Text Editor": "Editor de Formatação",
     "Rich Text Editor, %0": "Editor de Formatação, %0",
