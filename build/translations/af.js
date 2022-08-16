@@ -1,7 +1,10 @@
 !(function (e) {
-  const r = (e.af = e.af || {});
-  (r.dictionary = Object.assign(r.dictionary || {}, {
+  const n = (e.af = e.af || {});
+  (n.dictionary = Object.assign(n.dictionary || {}, {
     "%0 of %1": "%0 van %1",
+    "Align center": "Belyn in die middel",
+    "Align left": "Belyn links",
+    "Align right": "Belyn regs",
     "Block quote": "Verwysingsaanhaling",
     Bold: "Vet",
     Cancel: "Kanselleer",
@@ -11,6 +14,7 @@
     "Find in text…": "Soek in teks …",
     "Insert code block": "Voeg bronkodeblok in",
     Italic: "Kursief",
+    Justify: "Belyn beide kante",
     "Match case": "Hooflettersensitief",
     "Next result": "Volgende resultaat",
     "Plain text": "Gewone skrif",
@@ -27,13 +31,15 @@
     Strikethrough: "Deurstreep",
     Subscript: "Onderskrif",
     Superscript: "Boskrif",
+    "Text alignment": "Teksbelyning",
+    "Text alignment toolbar": "Teksbelyning nutsbank",
     "Text to find must not be empty.": "Soekteks mag nie leeg wees nie.",
     "Tip: Find some text first in order to replace it.":
       "Wenk: Soek eers 'n bietjie teks om dit te vervang.",
     Underline: "Onderstreep",
     "Whole words only": "Slegs hele woorde",
   })),
-    (r.getPluralForm = function (e) {
+    (n.getPluralForm = function (e) {
       return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));
