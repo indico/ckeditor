@@ -1,7 +1,7 @@
 !(function (e) {
   const i = (e.lt = e.lt || {});
   (i.dictionary = Object.assign(i.dictionary || {}, {
-    "%0 of %1": "",
+    "%0 of %1": "%0 iš %1",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
     "Align cell text to the left": "",
@@ -46,6 +46,7 @@
     "Dropdown toolbar": "",
     "Edit block": "Redaguoti bloką",
     "Edit link": "Keisti nuorodą",
+    "Editor editing area: %0": "Redaktoriaus redagavimo sritis: %0",
     "Editor toolbar": "",
     "Enter image caption": "Įveskite vaizdo antraštę",
     "Font Background Color": "Šrifto fono spalva",
@@ -117,7 +118,7 @@
     "Resize image": "",
     "Resize image to %0": "",
     "Resize image to the original size": "",
-    "Restore default": "",
+    "Restore default": "Atkurti numatytuosius",
     "Rich Text Editor": "Raiškiojo teksto redaktorius",
     "Rich Text Editor, %0": "Raiškiojo teksto redaktorius, %0",
     Ridge: "",
@@ -126,7 +127,7 @@
     Save: "Išsaugoti",
     "Select column": "",
     "Select row": "",
-    "Show more items": "",
+    "Show more items": "Rodyti daugiau elementų",
     "Side image": "Vaizdas šone",
     Solid: "",
     "Split cell horizontally": "Padalinti langelį horizontaliai",

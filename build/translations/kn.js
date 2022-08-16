@@ -19,6 +19,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "‍ಚಿತ್ರದ ಶೀರ್ಷಿಕೆ ಸೇರಿಸು",
     "Full size image": "‍ಪೂರ್ಣ ‍‍ಅಳತೆಯ ಚಿತ್ರ",

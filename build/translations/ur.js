@@ -46,6 +46,7 @@
     "Dropdown toolbar": "آلہ جات برائے فہرست ",
     "Edit block": "",
     "Edit link": "ربط کی تدوین",
+    "Editor editing area: %0": "رقبہ خانۂ ترمیم: 0%",
     "Editor toolbar": "",
     "Enter image caption": "",
     Find: "تلاش",

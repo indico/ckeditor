@@ -17,6 +17,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "",
     "Full size image": "Imaxen a tamañu completu",

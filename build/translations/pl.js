@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Rozwijany pasek narzędzi",
     "Edit block": "Edytuj blok",
     "Edit link": "Edytuj odnośnik",
+    "Editor editing area: %0": "Obszar edycji edytora: %0",
     "Editor toolbar": "Pasek narzędzi edytora",
     "Enter image caption": "Wstaw tytuł obrazka",
     Find: "Znajdź",

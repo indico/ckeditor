@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Verktøylinje for nedtrekksliste",
     "Edit block": "Rediger blokk",
     "Edit link": "Rediger lenke",
+    "Editor editing area: %0": "Redigeringsområde for redigeringsverktøyet: %0",
     "Editor toolbar": "Verktøylinje for redigeringsverktøy",
     "Enter image caption": "Skriv inn bildetekst",
     Find: "Søk",

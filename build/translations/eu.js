@@ -19,6 +19,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Sartu irudiaren epigrafea",
     "Full size image": "Tamaina osoko irudia",

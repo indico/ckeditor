@@ -1,14 +1,42 @@
-!(function (n) {
-  const t = (n.bn = n.bn || {});
+!(function (e) {
+  const t = (e.bn = e.bn || {});
   (t.dictionary = Object.assign(t.dictionary || {}, {
+    "%0 of %1": "%0 এর %1",
     "Align center": "কেন্দ্র সারিবদ্ধ করুন",
     "Align left": "বামে সারিবদ্ধ করুন",
     "Align right": "ডানদিকে সারিবদ্ধ করুন",
+    Aquamarine: "ফেকাশে সবুজবর্ণ",
+    Black: "কালো",
+    Blue: "নীল ",
+    Cancel: "বাতিল করুন",
+    "Dim grey": "আবছা ধূসর",
+    "Dropdown toolbar": "ড্রপডাউন টুলবার",
+    "Edit block": "এডিট ব্লক",
+    "Editor editing area: %0": "সম্পাদক সম্পাদনার ক্ষেত্র: %0",
+    "Editor toolbar": "সম্পাদক টুলবার",
+    Green: "সবুজ",
+    Grey: "ধূসর",
     Justify: "জাস্টিফাই",
+    "Light blue": "হালকা নীল",
+    "Light green": "হালকা সবুজ",
+    "Light grey": "হালকা ধূসর",
+    Next: "পরবর্তী",
+    Orange: "কমলা",
+    Previous: "পূর্ববর্তী",
+    Purple: "বেগুনি",
+    Red: "লাল",
+    "Remove color": "রং মুছে ফেলুন",
+    "Restore default": "পূর্বাবস্থায় ফিরিয়ে আনুন",
+    "Rich Text Editor": "রিচ টেক্সট এডিটর",
+    Save: "সংরক্ষণ করুন",
+    "Show more items": "আরও আইটেম দেখান",
     "Text alignment": "টেক্সট সারিবদ্ধকরণ",
     "Text alignment toolbar": "টেক্সট শ্রেণীবিন্যাস টুলবার",
+    Turquoise: "ফিরোজা",
+    White: "সাদা",
+    Yellow: "হলুদ ",
   })),
-    (t.getPluralForm = function (n) {
-      return 1 != n;
+    (t.getPluralForm = function (e) {
+      return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));

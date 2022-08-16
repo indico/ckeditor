@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Bară listă opțiuni",
     "Edit block": "Editează bloc",
     "Edit link": "Modifică link",
+    "Editor editing area: %0": "Zonă editare editor: %0",
     "Editor toolbar": "Bară editor",
     "Enter image caption": "Introdu titlul descriptiv al imaginii",
     "Font Background Color": "Culoarea de fundal a fontului",

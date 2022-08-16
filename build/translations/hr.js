@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Traka padajućeg izbornika",
     "Edit block": "Uredi blok",
     "Edit link": "Uredi vezu",
+    "Editor editing area: %0": "",
     "Editor toolbar": "Traka uređivača",
     "Enter image caption": "Unesite naslov slike",
     Find: "Pronađi",
