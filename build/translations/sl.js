@@ -2,6 +2,9 @@
   const o = (a.sl = a.sl || {});
   (o.dictionary = Object.assign(o.dictionary || {}, {
     "%0 of %1": "",
+    "Align center": "Sredinska poravnava",
+    "Align left": "Poravnava levo",
+    "Align right": "Poravnava desno",
     Aquamarine: "Akvamarin",
     Black: "Črna",
     "Block quote": "Blokiraj citat",
@@ -28,6 +31,7 @@
     "Heading 6": "Naslov 6",
     "Horizontal line": "Vodoravna črta",
     Italic: "Poševno",
+    Justify: "Postavi na sredino",
     "Light blue": "Svetlo modra",
     "Light green": "Svetlo zelena",
     "Light grey": "Svetlo siva",
@@ -46,6 +50,8 @@
     Strikethrough: "Prečrtano",
     Subscript: "Naročnik",
     Superscript: "Nadpis",
+    "Text alignment": "Poravnava besedila",
+    "Text alignment toolbar": "Orodna vrstica besedila",
     Turquoise: "Turkizna",
     Underline: "Podčrtaj",
     White: "Bela",

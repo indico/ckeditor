@@ -2,6 +2,9 @@
   const i = (e.he = e.he || {});
   (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "%0 מתוך %1",
+    "Align center": "יישור באמצע",
+    "Align left": "יישור לשמאל",
+    "Align right": "יישור לימין",
     Aquamarine: "",
     Black: "",
     "Block quote": "בלוק ציטוט",
@@ -45,6 +48,7 @@
     "Insert paragraph after block": "",
     "Insert paragraph before block": "",
     Italic: "נטוי",
+    Justify: "מרכוז גבולות",
     "Left aligned image": "תמונה מיושרת לשמאל",
     "Light blue": "",
     "Light green": "",
@@ -76,6 +80,8 @@
     Strikethrough: "קו חוצה",
     Subscript: "כתב תחתי",
     Superscript: "כתב עילי",
+    "Text alignment": "יישור טקסט",
+    "Text alignment toolbar": "סרגל כלים יישור טקסט",
     "Text alternative": "טקסט אלטרנטיבי",
     "This link has no URL": "לקישור זה אין כתובת אתר",
     Turquoise: "",
