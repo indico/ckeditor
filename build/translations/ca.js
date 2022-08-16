@@ -2,6 +2,9 @@
   const e = (a.ca = a.ca || {});
   (e.dictionary = Object.assign(e.dictionary || {}, {
     "%0 of %1": "",
+    "Align center": "Alineació centre",
+    "Align left": "Alineació esquerra",
+    "Align right": "Alineació dreta",
     "Block quote": "Cita de bloc",
     Bold: "Negreta",
     Cancel: "Cancel·lar",
@@ -18,6 +21,7 @@
     "Heading 5": "",
     "Heading 6": "",
     Italic: "Cursiva",
+    Justify: "Justificar",
     Paragraph: "Pàrraf",
     "Remove color": "",
     "Restore default": "",
@@ -26,6 +30,8 @@
     Strikethrough: "Marcat",
     Subscript: "",
     Superscript: "",
+    "Text alignment": "Alineació text",
+    "Text alignment toolbar": "Barra d'eines d'alineació de text",
     Underline: "Subrallat",
   })),
     (e.getPluralForm = function (a) {

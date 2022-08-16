@@ -2,6 +2,9 @@
   const i = (e.bs = e.bs || {});
   (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "%0 od %1",
+    "Align center": "Centrirati",
+    "Align left": "Lijevo poravnanje",
+    "Align right": "Desno poravnanje",
     "Block quote": "Citat",
     Bold: "Podebljano",
     "Break text": "",
@@ -35,6 +38,7 @@
     "Insert image": "Umetni sliku",
     "Insert image via URL": "Umetni sliku preko URLa",
     Italic: "Zakrivljeno",
+    Justify: "",
     "Left aligned image": "Lijevo poravnata slika",
     "Match case": "Podudaranje",
     "Next result": "",
@@ -58,6 +62,8 @@
     Strikethrough: "Precrtano",
     Subscript: "",
     Superscript: "",
+    "Text alignment": "Poravnanje teksta",
+    "Text alignment toolbar": "Traka za poravnanje teksta",
     "Text alternative": "ALT atribut",
     "Text to find must not be empty.": "Unesite tekst za pretragu.",
     "Tip: Find some text first in order to replace it.": "",

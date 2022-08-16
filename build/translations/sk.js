@@ -1,6 +1,6 @@
 !(function (e) {
-  const o = (e.sk = e.sk || {});
-  (o.dictionary = Object.assign(o.dictionary || {}, {
+  const a = (e.sk = e.sk || {});
+  (a.dictionary = Object.assign(a.dictionary || {}, {
     "%0 of %1": "%0 z %1",
     "Align cell text to the bottom": "Zarovnať text bunky nadol",
     "Align cell text to the center": "Zarovnať text bunky na stred",
@@ -8,6 +8,9 @@
     "Align cell text to the middle": "Zarovnať text bunky na stred",
     "Align cell text to the right": "Zarovnať text bunky doprava",
     "Align cell text to the top": "Zarovnať text bunky nahor",
+    "Align center": "Zarovnať na stred",
+    "Align left": "Zarovnať vľavo",
+    "Align right": "Zarovnať vpravo",
     "Align table to the left": "Zarovnať tabuľku doľava",
     "Align table to the right": "Zarovnať tabuľku doprava",
     Alignment: "Zarovnanie",
@@ -87,6 +90,7 @@
     "Insert table": "Vložiť tabuľku",
     Inset: "Vložená z vnútra",
     Italic: "Kurzíva",
+    Justify: "Do bloku",
     "Justify cell text": "Zarovnať text bunky z oboch strán",
     "Left aligned image": "Zarovnať vľavo",
     "Light blue": "Bledomodrá",
@@ -153,6 +157,8 @@
     "Table cell text alignment": "Zarovnanie textu v bunke",
     "Table properties": "Vlastnosti tabuľky",
     "Table toolbar": "Panel nástrojov tabuľky",
+    "Text alignment": "Zarovnanie textu",
+    "Text alignment toolbar": "Panel nástrojov zarovnania textu",
     "Text alternative": "Alternatívny text",
     "Text to find must not be empty.": "Text vyhľadávania nemôže byť prázdny.",
     'The color is invalid. Try "#FF0000" or "rgb(255,0,0)" or "red".':
@@ -184,7 +190,7 @@
     "Wrap text": "Obtekanie textu",
     Yellow: "Žltá",
   })),
-    (o.getPluralForm = function (e) {
+    (a.getPluralForm = function (e) {
       return e % 1 == 0 && 1 == e
         ? 0
         : e % 1 == 0 && e >= 2 && e <= 4
