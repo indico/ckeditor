@@ -6,6 +6,8 @@
     "Break text": "",
     "Bulleted List": "බුලටිත ලැයිස්තුව",
     Cancel: "",
+    "Caption for image: %0": "",
+    "Caption for the image": "",
     "Centered image": "",
     "Change image text alternative": "",
     Code: "",
