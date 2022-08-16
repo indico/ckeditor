@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Dropdown toolbar",
     "Edit block": "Edit block",
     "Edit link": "Edit link",
+    "Editor editing area: %0": "",
     "Editor toolbar": "Editor toolbar",
     "Enter image caption": "Enter image caption",
     Find: "Find",

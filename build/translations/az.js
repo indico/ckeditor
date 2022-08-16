@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Açılan paneli",
     "Edit block": "Redaktə etmək bloku",
     "Edit link": "Linki redaktə et",
+    "Editor editing area: %0": "",
     "Editor toolbar": "Redaktorun paneli",
     "Enter image caption": "Şəkil başlığı daxil edin",
     "Font Background Color": "Şrift Fonunun Rəngi",

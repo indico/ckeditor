@@ -47,6 +47,7 @@
     "Dropdown toolbar": "Barra de herramientas desplegable",
     "Edit block": "Cuadro de edición",
     "Edit link": "Editar enlace",
+    "Editor editing area: %0": "Área de edición del editor: %0",
     "Editor toolbar": "Barra de herramientas de edición",
     "Enter image caption": "Introducir título de la imagen",
     Find: "Buscar",

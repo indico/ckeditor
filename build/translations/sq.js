@@ -45,6 +45,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "Redakto nyjën",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Shto përshkrimin e fotos",
     "Font Background Color": "",

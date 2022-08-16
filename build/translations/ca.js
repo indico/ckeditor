@@ -1,18 +1,28 @@
-!(function (a) {
-  const e = (a.ca = a.ca || {});
-  (e.dictionary = Object.assign(e.dictionary || {}, {
-    "%0 of %1": "",
+!(function (e) {
+  const a = (e.ca = e.ca || {});
+  (a.dictionary = Object.assign(a.dictionary || {}, {
+    "%0 of %1": "%0 de %1",
     "Align center": "Alineació centre",
     "Align left": "Alineació esquerra",
     "Align right": "Alineació dreta",
+    Aquamarine: "Aiguamarina",
+    Black: "Negre",
     "Block quote": "Cita de bloc",
+    Blue: "Blau",
     Bold: "Negreta",
     Cancel: "Cancel·lar",
     "Choose heading": "Escull capçalera",
     Code: "Codi",
+    "Dim grey": "Gris fosc",
     "Document colors": "",
+    "Dropdown toolbar": "Barra d'eines desplegable",
+    "Edit block": "Editar bloc",
+    "Editor editing area: %0": "Àrea d'edició d'editor: %0",
+    "Editor toolbar": "Barra d'eines de l'editor",
     "Font Background Color": "",
     "Font Color": "",
+    Green: "Verd",
+    Grey: "Gris",
     Heading: "Capçalera",
     "Heading 1": "Capçalera 1",
     "Heading 2": "Capçalera 2",
@@ -22,19 +32,31 @@
     "Heading 6": "",
     Italic: "Cursiva",
     Justify: "Justificar",
+    "Light blue": "Blau clar",
+    "Light green": "Verd clar",
+    "Light grey": "Gris clar",
+    Next: "Següent",
+    Orange: "Taronja",
     Paragraph: "Pàrraf",
-    "Remove color": "",
-    "Restore default": "",
+    Previous: "Anterior",
+    Purple: "Lila",
+    Red: "Vermell",
+    "Remove color": "Eliminar el color",
+    "Restore default": "Restaurar el valor predeterminat",
+    "Rich Text Editor": "Editor de text enriquit",
     Save: "Desar",
-    "Show more items": "",
+    "Show more items": "Mostrar més elements",
     Strikethrough: "Marcat",
     Subscript: "",
     Superscript: "",
     "Text alignment": "Alineació text",
     "Text alignment toolbar": "Barra d'eines d'alineació de text",
+    Turquoise: "Turquesa",
     Underline: "Subrallat",
+    White: "Blanc",
+    Yellow: "Groc",
   })),
-    (e.getPluralForm = function (a) {
-      return 1 != a;
+    (a.getPluralForm = function (e) {
+      return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));
