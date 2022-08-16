@@ -9,6 +9,8 @@
     Bold: "Podebljano",
     "Break text": "",
     Cancel: "Poništi",
+    "Caption for image: %0": "",
+    "Caption for the image": "",
     "Centered image": "Centrirana slika",
     "Change image text alternative": "Promijeni ALT atribut za sliku",
     "Choose heading": "Odaberi naslov",
