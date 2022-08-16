@@ -45,7 +45,6 @@
     "Remove color": "Odstrani barvo",
     "Restore default": "",
     "Rich Text Editor": "",
-    "Rich Text Editor, %0": "",
     Save: "Shrani",
     "Show more items": "",
     Strikethrough: "Prečrtano",
