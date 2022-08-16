@@ -9,6 +9,8 @@
     "Break text": "",
     "Bulleted List": "",
     Cancel: "Batal",
+    "Caption for image: %0": "",
+    "Caption for the image": "",
     "Centered image": "Gambar ing tengah",
     "Change image text alternative": "",
     "Choose heading": "",

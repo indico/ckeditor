@@ -1,6 +1,6 @@
 !(function (e) {
-  const l = (e.fr = e.fr || {});
-  (l.dictionary = Object.assign(l.dictionary || {}, {
+  const t = (e.fr = e.fr || {});
+  (t.dictionary = Object.assign(t.dictionary || {}, {
     "%0 of %1": "%0 sur %1",
     "Align cell text to the bottom": "Aligner le texte en bas",
     "Align cell text to the center": "Aligner la cellule au centre",
@@ -21,9 +21,11 @@
     Blue: "Bleu",
     Bold: "Gras",
     Border: "Bordure",
-    "Break text": "",
+    "Break text": "Saut de ligne",
     "Bulleted List": "Liste à puces",
     Cancel: "Annuler",
+    "Caption for image: %0": "Légende de l'image : %0",
+    "Caption for the image": "Légende de l'image",
     "Cell properties": "Propriétés de la cellule",
     "Center table": "Centrer le tableau ",
     "Centered image": "Image centrée",
@@ -49,6 +51,9 @@
     "Editor editing area: %0": "Zone d'édition de l'éditeur : %0",
     "Editor toolbar": "Barre d'outils de l'éditeur",
     "Enter image caption": "Saisir la légende de l’image",
+    Find: "Rechercher",
+    "Find and replace": "Rechercher et remplacer",
+    "Find in text…": "Rechercher dans le texte...",
     "Font Background Color": "Couleur d'arrière-plan",
     "Font Color": "Couleur de police",
     "Full size image": "Image taille réelle",
@@ -68,10 +73,11 @@
     "Horizontal line": "Ligne horizontale",
     "Horizontal text alignment toolbar":
       "Barre d'outils pour modifier l'alignement horizontal du texte",
+    "HTML object": "Objet HTML",
     "Image resize list": "Liste des tailles d'images",
     "Image toolbar": "Barre d'outils des images",
     "image widget": "Objet image",
-    "In line": "",
+    "In line": "Aligné",
     "Increase indent": "Augmenter le retrait",
     Insert: "Insérer",
     "Insert code block": "Insérer un bloc de code",
@@ -95,6 +101,7 @@
     "Light grey": "Gris clair",
     Link: "Lien",
     "Link URL": "URL du lien",
+    "Match case": "Sensible à la casse",
     "Media URL": "URL de média",
     "media widget": "Widget média",
     "Merge cell down": "Fusionner la cellule en-dessous",
@@ -103,6 +110,7 @@
     "Merge cell up": "Fusionner la cellule au-dessus",
     "Merge cells": "Fusionner les cellules",
     Next: "Suivant",
+    "Next result": "Résultat suivant",
     None: "Aucun",
     "Numbered List": "Liste numérotée",
     "Open in a new tab": "Ouvrir dans un nouvel onglet",
@@ -115,17 +123,20 @@
     "Paste the media URL in the input.": "Coller l'URL du média",
     "Plain text": "Texte brut",
     Previous: "Précedent",
+    "Previous result": "Résultat précédent",
     Purple: "Violet",
     Red: "Rouge",
     Redo: "Restaurer",
     "Remove color": "Enlever la couleur",
     "Remove Format": "Enlever le format",
+    Replace: "Remplacer",
+    "Replace all": "Remplacer tout",
+    "Replace with…": "Remplacer par ...",
     "Resize image": "Redimensionner l'image",
     "Resize image to %0": "Redimensionner à %0",
     "Resize image to the original size": "Appliquer les dimensions d'origine",
     "Restore default": "Restaurer par défaut",
     "Rich Text Editor": "Éditeur de texte enrichi",
-    "Rich Text Editor, %0": "Éditeur de texte enrichi, %0",
     Ridge: "Relief",
     "Right aligned image": "Image alignée à droite",
     Row: "Ligne",
@@ -134,8 +145,10 @@
     "Select column": "Sélectionner la colonne",
     "Select row": "Sélectionner la ligne",
     "Show more items": "Montrer plus d'éléments",
+    "Show options": "Afficher les options",
     "Side image": "Image latérale",
     Solid: "Continu",
+    Source: "Source",
     "Split cell horizontally": "Scinder la cellule horizontalement",
     "Split cell vertically": "Scinder la cellule verticalement",
     Strikethrough: "Barré",
@@ -150,6 +163,8 @@
     "Text alignment": "Alignement du texte",
     "Text alignment toolbar": "Barre d'outils d'alignement du texte",
     "Text alternative": "Texte alternatif",
+    "Text to find must not be empty.":
+      "L'expression à rechercher ne doit pas être vide",
     'The color is invalid. Try "#FF0000" or "rgb(255,0,0)" or "red".':
       'La couleur est invalide. Essayez "#FF0000" ou "rgb(255,0,0)" ou "red".',
     "The URL must not be empty.": "L'URL ne doit pas être vide.",
@@ -158,10 +173,12 @@
     "This link has no URL": "Ce lien n'a pas d'URL",
     "This media URL is not supported.":
       "Cette URL de média n'est pas supportée.",
+    "Tip: Find some text first in order to replace it.":
+      "Astuce : rechercher une expression afin de la remplacer",
     "Tip: Paste the URL into the content to embed faster.":
       "Astuce : Copier l'URL du média dans le contenu pour l'insérer plus rapidement",
-    "Toggle caption off": "",
-    "Toggle caption on": "",
+    "Toggle caption off": "Désactiver la légende",
+    "Toggle caption on": "Activer la légende",
     Turquoise: "Turquoise",
     Underline: "Souligné",
     Undo: "Annuler",
@@ -173,12 +190,13 @@
     "Vertical text alignment toolbar":
       "Barre d'outils pour modifier l'alignement vertical du texte",
     White: "Blanc",
+    "Whole words only": "Mots entiers uniquement",
     "Widget toolbar": "Barre d'outils du widget",
     Width: "Largeur",
-    "Wrap text": "",
+    "Wrap text": "Retour à la ligne",
     Yellow: "Jaune",
   })),
-    (l.getPluralForm = function (e) {
+    (t.getPluralForm = function (e) {
       return 0 == e || 1 == e ? 0 : 0 != e && e % 1e6 == 0 ? 1 : 2;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));
