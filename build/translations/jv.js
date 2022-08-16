@@ -2,6 +2,9 @@
   const e = (a.jv = a.jv || {});
   (e.dictionary = Object.assign(e.dictionary || {}, {
     "%0 of %1": "%0 saking %1",
+    "Align center": "Rata tengah",
+    "Align left": "Rata kiwa",
+    "Align right": "Rata tengen",
     Bold: "Kandhel",
     "Break text": "",
     "Bulleted List": "",
@@ -36,6 +39,7 @@
     "Insert image": "Tambahaken gambar",
     "Insert image via URL": "Tambah gambar saking URL",
     Italic: "Miring",
+    Justify: "Rata kiwa tengen",
     "Left aligned image": "Gambar ing kiwa",
     "Match case": "Samikaken aksara",
     "Next result": "Kasil salajengipun",
@@ -60,6 +64,8 @@
     Strikethrough: "Seratan dicoret",
     Subscript: "",
     Superscript: "",
+    "Text alignment": "Perataan seratan",
+    "Text alignment toolbar": "",
     "Text alternative": "",
     "Text to find must not be empty.":
       "Seratan ingkang dipunpadosi mboten angsal kosong.",
