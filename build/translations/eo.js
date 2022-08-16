@@ -9,6 +9,8 @@
     "Break text": "",
     "Bulleted List": "Bula Listo",
     Cancel: "Nuligi",
+    "Caption for image: %0": "",
+    "Caption for the image": "",
     "Centered image": "",
     "Change image text alternative":
       "Ŝanĝu la alternativan tekston de la bildo",
@@ -63,7 +65,6 @@
     "Resize image to the original size": "",
     "Restore default": "",
     "Rich Text Editor": "Redaktilo de Riĉa Teksto",
-    "Rich Text Editor, %0": "Redaktilo de Riĉa Teksto, %0",
     "Right aligned image": "",
     Save: "Konservi",
     "Show more items": "",
