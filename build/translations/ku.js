@@ -46,6 +46,7 @@
     "Dropdown toolbar": "تووڵامرازی لیستەیی",
     "Edit block": "دەستکاری بلۆک",
     "Edit link": "دەستکاری بەستەر",
+    "Editor editing area: %0": "",
     "Editor toolbar": "تووڵامرازی دەسکاریکەر",
     "Enter image caption": "سەردێڕی وێنە دابنێ",
     "Font Background Color": "ڕەنگی پاشبنەمای فۆنت",

@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Açylýan gurallar paneli",
     "Edit block": "Bloky redaktirläň",
     "Edit link": "Baglanyşygy üýtget",
+    "Editor editing area: %0": "",
     "Editor toolbar": "Redaktor gurallar paneli",
     "Enter image caption": "Surat ýazgysyny giriziň",
     "Font Background Color": "Şriftiň fon reňki",

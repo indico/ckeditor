@@ -1,7 +1,7 @@
 !(function (e) {
   const t = (e.ja = e.ja || {});
   (t.dictionary = Object.assign(t.dictionary || {}, {
-    "%0 of %1": "",
+    "%0 of %1": "%0/%1",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
     "Align cell text to the left": "",
@@ -46,6 +46,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "リンクを編集",
+    "Editor editing area: %0": "エディタ編集エリア：%0",
     "Editor toolbar": "",
     "Enter image caption": "画像の注釈を入力",
     "Font Background Color": "背景色",
@@ -121,7 +122,7 @@
     "Resize image": "画像サイズ",
     "Resize image to %0": "画像サイズを%0に変更",
     "Resize image to the original size": "画像サイズを元のサイズに変更",
-    "Restore default": "",
+    "Restore default": "初期値に戻す",
     "Rich Text Editor": "リッチテキストエディター",
     "Rich Text Editor, %0": "リッチテキストエディター, %0",
     Ridge: "",
@@ -131,7 +132,7 @@
     "Select all": "すべて選択",
     "Select column": "",
     "Select row": "",
-    "Show more items": "",
+    "Show more items": "他の項目を表示",
     "Side image": "サイドイメージ",
     Solid: "",
     "Split cell horizontally": "縦にセルを分離",
