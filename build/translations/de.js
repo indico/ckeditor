@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Dropdown-Liste Werkzeugleiste",
     "Edit block": "Absatz bearbeiten",
     "Edit link": "Link bearbeiten",
+    "Editor editing area: %0": "Bearbeitungsbereich des Editors: %0",
     "Editor toolbar": "Editor Werkzeugleiste",
     "Enter image caption": "Bildunterschrift eingeben",
     Find: "Suchen",

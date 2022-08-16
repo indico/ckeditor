@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Papildus izvēlnes rīkjosla",
     "Edit block": "Labot bloku",
     "Edit link": "Labot Saiti",
+    "Editor editing area: %0": "Redaktora rediģēšanas zona: %0",
     "Editor toolbar": "Redaktora rīkjosla",
     "Enter image caption": "Ievadiet attēla parakstu",
     Find: "Meklēt",

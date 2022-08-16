@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Drop-down werkbalk",
     "Edit block": "Blok aanpassen",
     "Edit link": "Bewerk link",
+    "Editor editing area: %0": "Bewerkingsgebied: %0",
     "Editor toolbar": "Editor welkbalk",
     "Enter image caption": "Typ een afbeeldingsbijschrift",
     Find: "Zoeken",

@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Lenyíló eszköztár",
     "Edit block": "Blokk szerkesztése",
     "Edit link": "Link szerkesztése",
+    "Editor editing area: %0": "Szerkesztő szerkesztési területe: %0",
     "Editor toolbar": "Szerkesztő eszköztár",
     "Enter image caption": "Képaláírás megadása",
     Find: "Keresés",

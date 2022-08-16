@@ -46,6 +46,7 @@
     "Dropdown toolbar": "",
     "Edit block": "ब्लक सम्पादन गर्न",
     "Edit link": "लिङ्क सम्पादन गर्नुहोस्",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "तस्वीर क्याप्शन प्रविष्ट गर्नुहोस्",
     "Font Background Color": "पृष्ठभूमिको फन्ट रंग",

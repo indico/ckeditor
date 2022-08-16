@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Rozbalovací panel nástrojů",
     "Edit block": "Upravit blok",
     "Edit link": "Upravit odkaz",
+    "Editor editing area: %0": "Editační oblast editoru: %0",
     "Editor toolbar": "Panel nástrojů editoru",
     "Enter image caption": "Zadejte popis obrázku",
     Find: "Najít",
