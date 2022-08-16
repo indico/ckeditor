@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Barra degli strumenti del menu a discesa",
     "Edit block": "Modifica blocco",
     "Edit link": "Modifica collegamento",
+    "Editor editing area: %0": "Area di modifica dell'editor: %0",
     "Editor toolbar": "Barra degli strumenti dell'editor",
     "Enter image caption": "inserire didascalia dell'immagine",
     Find: "Trova",

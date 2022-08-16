@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Dropdown værktøjslinje",
     "Edit block": "Redigér blok",
     "Edit link": "Redigér link",
+    "Editor editing area: %0": "Redigeringsområde: %0",
     "Editor toolbar": "Editor værktøjslinje",
     "Enter image caption": "Indtast billedoverskrift",
     Find: "",

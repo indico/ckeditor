@@ -22,6 +22,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "បញ្ចូល​ពាក្យ​ពណ៌នា​រូបភាព",
     "Full size image": "រូបភាព​ពេញ​ទំហំ",

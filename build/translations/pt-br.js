@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Barra de Ferramentas da Lista Suspensa",
     "Edit block": "Editor de bloco",
     "Edit link": "Editar link",
+    "Editor editing area: %0": "Área de edição do editor: %0",
     "Editor toolbar": "Ferramentas do Editor",
     "Enter image caption": "Inserir legenda da imagem",
     Find: "Pesquisar",

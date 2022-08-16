@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Panel nástrojov roletového menu",
     "Edit block": "Upraviť odsek",
     "Edit link": "Upraviť odkaz",
+    "Editor editing area: %0": "Oblasť úprav editora: %0",
     "Editor toolbar": "Panel nástrojov editora",
     "Enter image caption": "Vložte popis obrázka",
     Find: "Vyhľadať",

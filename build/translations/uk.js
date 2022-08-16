@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Випадаюча панель інструментів",
     "Edit block": "Редагувати блок",
     "Edit link": "Редагувати посилання",
+    "Editor editing area: %0": "Область редагування редактора: %0",
     "Editor toolbar": "Панель інструментів редактора",
     "Enter image caption": "Введіть підпис зображення",
     "Font Background Color": "Колір тла шрифту",
@@ -123,7 +124,7 @@
     "Resize image to %0": "Розтягнути зображення до %0",
     "Resize image to the original size":
       "Розтягнути зображення до оригінального розміру",
-    "Restore default": "",
+    "Restore default": "Відновити за замовчуванням",
     "Rich Text Editor": "Розширений текстовий редактор",
     "Rich Text Editor, %0": "Розширений текстовий редактор, %0",
     Ridge: "Ребриста",

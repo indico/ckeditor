@@ -1,6 +1,6 @@
 !(function (a) {
-  const o = (a.sl = a.sl || {});
-  (o.dictionary = Object.assign(o.dictionary || {}, {
+  const e = (a.sl = a.sl || {});
+  (e.dictionary = Object.assign(e.dictionary || {}, {
     "%0 of %1": "",
     "Align center": "Sredinska poravnava",
     "Align left": "Poravnava levo",
@@ -17,6 +17,7 @@
     "Document colors": "Barve dokumenta",
     "Dropdown toolbar": "",
     "Edit block": "",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Font Background Color": "Barva ozadja pisave",
     "Font Color": "Barva pisave",
@@ -57,7 +58,7 @@
     White: "Bela",
     Yellow: "Rumena",
   })),
-    (o.getPluralForm = function (a) {
+    (e.getPluralForm = function (a) {
       return a % 100 == 1
         ? 0
         : a % 100 == 2

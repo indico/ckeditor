@@ -1,7 +1,7 @@
 !(function (e) {
   const i = (e.fi = e.fi || {});
   (i.dictionary = Object.assign(i.dictionary || {}, {
-    "%0 of %1": "",
+    "%0 of %1": "%0 / %1",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
     "Align cell text to the left": "",
@@ -46,6 +46,7 @@
     "Dropdown toolbar": "",
     "Edit block": "Muokkaa lohkoa",
     "Edit link": "Muokkaa linkkiä",
+    "Editor editing area: %0": "Editorin muokkausalue: %0",
     "Editor toolbar": "Editorin työkalupalkki",
     "Enter image caption": "Syötä kuvateksti",
     "Font Background Color": "Fontin taustaväri",
@@ -125,7 +126,7 @@
     Save: "Tallenna",
     "Select column": "Valitse sarake",
     "Select row": "Valitse rivi",
-    "Show more items": "",
+    "Show more items": "Näytä lisää toimintoja",
     "Side image": "Pieni kuva",
     Solid: "",
     "Split cell horizontally": "Jaa solu vaakasuunnassa",
