@@ -19,6 +19,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Skribu klarigon pri la bildo",
     "Full size image": "Bildo kun reala dimensio",

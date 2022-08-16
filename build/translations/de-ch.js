@@ -46,6 +46,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "Link bearbeiten",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Bildunterschrift eingeben",
     "Font Background Color": "Hintergrundfarbe der Schrift",

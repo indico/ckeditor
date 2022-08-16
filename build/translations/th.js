@@ -1,7 +1,7 @@
 !(function (e) {
   const t = (e.th = e.th || {});
   (t.dictionary = Object.assign(t.dictionary || {}, {
-    "%0 of %1": "",
+    "%0 of %1": "%0 จาก %1",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
     "Align cell text to the left": "",
@@ -41,6 +41,7 @@
     Double: "",
     "Dropdown toolbar": "",
     "Edit block": "",
+    "Editor editing area: %0": "พื้นที่แก้ไขของตัวแก้ไข: %0",
     "Editor toolbar": "",
     "Enter image caption": "ระบุคำอธิบายภาพ",
     "Font Background Color": "สีพื้นหลังข้อความ",
@@ -106,7 +107,7 @@
     "Resize image": "",
     "Resize image to %0": "",
     "Resize image to the original size": "",
-    "Restore default": "",
+    "Restore default": "คืนค่าเริ่มต้น",
     "Rich Text Editor": "",
     "Rich Text Editor, %0": "",
     Ridge: "",
@@ -115,7 +116,7 @@
     Save: "บันทึก",
     "Select column": "",
     "Select row": "",
-    "Show more items": "",
+    "Show more items": "แสดงรายการเพิ่มเติม",
     "Side image": "รูปด้านข้าง",
     Solid: "",
     "Split cell horizontally": "แยกเซลล์แนวนอน",

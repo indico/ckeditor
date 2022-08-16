@@ -46,6 +46,7 @@
     "Dropdown toolbar": "نوارابزار کشویی",
     "Edit block": "ویرایش قطعه",
     "Edit link": "ویرایش پیوند",
+    "Editor editing area: %0": "",
     "Editor toolbar": "نوارابزار ویرایشگر",
     "Enter image caption": "عنوان تصویر را وارد کنید",
     "Font Background Color": "رنگ پس زمینه فونت",

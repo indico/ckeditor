@@ -46,6 +46,7 @@
     "Dropdown toolbar": "Ochiladigan asboblar paneli",
     "Edit block": "Blokni tahrirlash",
     "Edit link": "Havolani tahrirlash",
+    "Editor editing area: %0": "",
     "Editor toolbar": "Tahrirlovchi asboblar paneli",
     "Enter image caption": "Rasm sarlavhasi",
     "Font Background Color": "Fon rangi",

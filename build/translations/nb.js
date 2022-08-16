@@ -45,6 +45,7 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "Rediger lenke",
+    "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Skriv inn bildetekst",
     "Font Background Color": "",

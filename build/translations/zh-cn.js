@@ -46,6 +46,7 @@
     "Dropdown toolbar": "下拉工具栏",
     "Edit block": "编辑框",
     "Edit link": "修改链接",
+    "Editor editing area: %0": "编辑器编辑区域：%0",
     "Editor toolbar": "编辑器工具栏",
     "Enter image caption": "输入图片标题",
     Find: "查找",

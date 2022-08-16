@@ -46,6 +46,7 @@
     "Dropdown toolbar": "下拉選單",
     "Edit block": "編輯區塊",
     "Edit link": "編輯連結",
+    "Editor editing area: %0": "編輯器編輯區：%0",
     "Editor toolbar": "編輯器工具",
     "Enter image caption": "輸入圖片說明",
     Find: "尋找",
