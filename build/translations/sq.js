@@ -89,6 +89,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "Shto nyjën",
+    "Link image": "",
     "Link URL": "Nyja e URL-së",
     "Media URL": "URL e Medies",
     "media widget": "Vegla e medies",

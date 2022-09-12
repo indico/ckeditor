@@ -89,6 +89,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "ئۇلانما",
+    "Link image": "",
     "Link URL": "ئۇلاش ئادىرسى",
     "Merge cell down": "",
     "Merge cell left": "",

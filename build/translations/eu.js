@@ -47,6 +47,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "Esteka",
+    "Link image": "",
     "Link URL": "Estekaren URLa",
     Next: "",
     "Numbered List": "Zenbakidun zerrenda",

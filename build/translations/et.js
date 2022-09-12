@@ -99,6 +99,7 @@
     "Light green": "Heleroheline",
     "Light grey": "Helehall",
     Link: "Link",
+    "Link image": "Lingi pilt",
     "Link URL": "Lingi URL",
     "Match case": "Erista juhtumit",
     "Media URL": "Meedia URL",

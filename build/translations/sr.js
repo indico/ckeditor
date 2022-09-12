@@ -100,6 +100,7 @@
     "Light green": "Светлозелена",
     "Light grey": "Светло сива",
     Link: "Линк",
+    "Link image": "Линк слике",
     "Link URL": "УРЛ линк",
     "Match case": "Подударање случај ",
     "Media URL": "Mедиа УРЛ",

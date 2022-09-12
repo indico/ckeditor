@@ -99,6 +99,7 @@
     "Light green": "Açık Yeşil",
     "Light grey": "Açık Gri",
     Link: "Bağlantı",
+    "Link image": "Resim bağlantısı",
     "Link URL": "Bağlantı Adresi",
     "Match case": "Büyük küçük harfe duyarlı",
     "Media URL": "Medya URL'si",

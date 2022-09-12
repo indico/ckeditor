@@ -103,6 +103,7 @@
     "Light green": "Verd clar",
     "Light grey": "Gris clar",
     Link: "Enllaç",
+    "Link image": "Enllaçar imatge",
     "Link URL": "Enllaçar URL",
     "Match case": "Coincidència de majúscules i minúscules",
     "Media URL": "URL dels mitjans",

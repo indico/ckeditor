@@ -88,6 +88,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "Lenke",
+    "Link image": "",
     "Link URL": "URL for lenke",
     "Merge cell down": "Slå sammen celle ned",
     "Merge cell left": "Slå sammen celle til venstre",

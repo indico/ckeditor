@@ -100,6 +100,7 @@
     "Light green": "Bledozelená",
     "Light grey": "Bledosivá",
     Link: "Odkaz",
+    "Link image": "Adresa obrázku",
     "Link URL": "URL adresa",
     "Match case": "Presná zhoda",
     "Media URL": "URL média",

@@ -97,6 +97,7 @@
     "Light green": "ہلکا سبز",
     "Light grey": "ہلکا سرمئی",
     Link: "ربط",
+    "Link image": "",
     "Link URL": "ربط کا یو آر ایل",
     "Match case": "بڑے چھوٹے حروف کا خیال رکھیں",
     "Media URL": "میڈیا یو آر ایل",

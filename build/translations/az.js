@@ -95,6 +95,7 @@
     "Light green": "Açıq yaşıl",
     "Light grey": "Açıq boz",
     Link: "Əlaqələndir",
+    "Link image": "",
     "Link URL": "Linkin URL",
     "Media URL": "Media URL",
     "media widget": "media vidgeti",

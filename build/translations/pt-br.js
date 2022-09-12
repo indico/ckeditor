@@ -100,6 +100,7 @@
     "Light green": "Verde claro",
     "Light grey": "Cinza claro",
     Link: "Link",
+    "Link image": "Link da imagem",
     "Link URL": "URL",
     "Match case": "Diferenciar maiúsculas de minúsculas",
     "Media URL": "URL da mídia",

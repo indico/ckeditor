@@ -99,6 +99,7 @@
     "Light green": "হালকা সবুজ",
     "Light grey": "হালকা ধূসর",
     Link: "লিঙ্ক",
+    "Link image": "লিঙ্ক চিত্র",
     "Link URL": "লিঙ্ক URL",
     "Match case": "ম্যাচ কেস",
     "Media URL": "মিডিয়া URL",

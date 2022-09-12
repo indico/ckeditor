@@ -99,6 +99,7 @@
     "Light green": "Verde deschis",
     "Light grey": "Gri deschis",
     Link: "Link",
+    "Link image": "Link imagine",
     "Link URL": "Link URL",
     "Match case": "Potrivire litere mari și mici",
     "Media URL": "Media URL",
