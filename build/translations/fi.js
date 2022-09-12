@@ -100,6 +100,7 @@
     "Light green": "Vaaleanvihreä",
     "Light grey": "Vaaleanharmaa",
     Link: "Linkki",
+    "Link image": "Linkkikuva",
     "Link URL": "Linkin osoite",
     "Match case": "Hae tapaukselle vastapari",
     "Media URL": "Media-URL",

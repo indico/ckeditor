@@ -38,6 +38,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "Enllazar",
+    "Link image": "",
     "Link URL": "URL del enllaz",
     Next: "",
     "Numbered List": "Llista numberada",

@@ -101,6 +101,7 @@
     "Light green": "Xanh lá nhạt",
     "Light grey": "Xám nhạt",
     Link: "Chèn liên kết",
+    "Link image": "Liên kết của ảnh",
     "Link URL": "Đường dẫn liên kết",
     "Match case": "Khớp chữ hoa/chữ thường",
     "Media URL": "Đường dẫn đa phương tiện",

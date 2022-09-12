@@ -100,6 +100,7 @@
     "Light green": "Ljusgrön",
     "Light grey": "Ljusgrå",
     Link: "Länk",
+    "Link image": "Länka bild",
     "Link URL": "Länkens URL",
     "Match case": "Matcha versaler",
     "Media URL": "Medie-URL",

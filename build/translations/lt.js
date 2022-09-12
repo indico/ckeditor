@@ -100,6 +100,7 @@
     "Light green": "Šviesiai žalia",
     "Light grey": "Šviesiai pilka",
     Link: "Pridėti nuorodą",
+    "Link image": "Susieti paveikslėlį",
     "Link URL": "Nuorodos URL",
     "Match case": "Sutapties atvejis",
     "Media URL": "Media URL",

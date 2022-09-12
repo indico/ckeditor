@@ -99,6 +99,7 @@
     "Light green": "Világoszöld",
     "Light grey": "Világosszürke",
     Link: "Link",
+    "Link image": "Hivatkozás",
     "Link URL": "URL link",
     "Match case": "Nagybetű érzékeny",
     "Media URL": "Média URL",

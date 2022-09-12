@@ -47,6 +47,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "‍ಕೊಂಡಿ",
+    "Link image": "",
     "Link URL": "‍ಕೊಂಡಿ ಸಂಪರ್ಕಿಸು",
     Next: "",
     "Numbered List": "‍ಸಂಖ್ಯೆಯ ಪಟ್ಟಿ‍",

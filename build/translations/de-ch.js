@@ -1,6 +1,6 @@
 !(function (e) {
-  const t = (e["de-ch"] = e["de-ch"] || {});
-  (t.dictionary = Object.assign(t.dictionary || {}, {
+  const i = (e["de-ch"] = e["de-ch"] || {});
+  (i.dictionary = Object.assign(i.dictionary || {}, {
     "%0 of %1": "",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
@@ -95,6 +95,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "Link",
+    "Link image": "Bild verlinken",
     "Link URL": "Link Adresse",
     "Media URL": "Medien-URL",
     "media widget": "Medien-Widget",
@@ -175,7 +176,7 @@
     "Wrap text": "",
     Yellow: "",
   })),
-    (t.getPluralForm = function (e) {
+    (i.getPluralForm = function (e) {
       return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));

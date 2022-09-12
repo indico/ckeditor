@@ -99,6 +99,7 @@
     "Light green": "أخضر فاتح",
     "Light grey": "رمادي فاتح",
     Link: "رابط",
+    "Link image": "ربط الصورة",
     "Link URL": "رابط عنوان",
     "Match case": "مطابقة حالة الأحرف",
     "Media URL": "عنوان URL الوسائط",
