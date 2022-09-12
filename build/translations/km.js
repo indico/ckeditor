@@ -51,6 +51,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "តំណ",
+    "Link image": "",
     "Link URL": "URL តំណ",
     Next: "",
     "Numbered List": "បញ្ជី​ជា​លេខ",

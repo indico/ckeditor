@@ -100,6 +100,7 @@
     "Light green": "Салатовый",
     "Light grey": "Светло-серый",
     Link: "Ссылка",
+    "Link image": "Ссылка на изображение",
     "Link URL": "Ссылка URL",
     "Match case": "С учетом регистра",
     "Media URL": "URL медиа",

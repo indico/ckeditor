@@ -100,6 +100,7 @@
     "Light green": "Svijetlozelena",
     "Light grey": "Svijetlosiva",
     Link: "Veza",
+    "Link image": "URL slike",
     "Link URL": "URL veze",
     "Match case": "Točna velika/mala slova",
     "Media URL": "URL medija",

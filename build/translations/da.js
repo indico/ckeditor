@@ -100,6 +100,7 @@
     "Light green": "Lys grøn",
     "Light grey": "Lys grå",
     Link: "Link",
+    "Link image": "Link-billede",
     "Link URL": "Link URL",
     "Match case": "Skeln mellem store og små bogstaver",
     "Media URL": "Medie URL",

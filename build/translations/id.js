@@ -100,6 +100,7 @@
     "Light green": "Hijau terang",
     "Light grey": "Kelabu terang",
     Link: "Tautan",
+    "Link image": "Tautkan gambar",
     "Link URL": "URL tautan",
     "Match case": "Sesuaikan huruf",
     "Media URL": "URL Media",

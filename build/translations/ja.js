@@ -99,6 +99,7 @@
     "Light green": "明るい緑",
     "Light grey": "明るい灰色",
     Link: "リンク",
+    "Link image": "リンク画像",
     "Link URL": "リンクURL",
     "Match case": "マッチケース",
     "Media URL": "メディアURL",

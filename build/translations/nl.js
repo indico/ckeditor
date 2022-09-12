@@ -100,6 +100,7 @@
     "Light green": "Lichtgroen",
     "Light grey": "Lichtgrijs",
     Link: "Link",
+    "Link image": "Link afbeelding",
     "Link URL": "Link URL",
     "Match case": "Hoofdlettergevoelig",
     "Media URL": "Media URL",

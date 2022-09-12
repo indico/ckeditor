@@ -99,6 +99,7 @@
     "Light green": "Light green",
     "Light grey": "Light grey",
     Link: "Link",
+    "Link image": "Link image",
     "Link URL": "Link URL",
     "Match case": "Match case",
     "Media URL": "Media URL",

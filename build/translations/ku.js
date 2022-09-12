@@ -95,6 +95,7 @@
     "Light green": "سەوزی ڕووناک",
     "Light grey": "ڕەساسی ڕووناک",
     Link: "بەستەر",
+    "Link image": "",
     "Link URL": "ناونیشانی بەستەر",
     "Media URL": "بەستەری مێدیا",
     "media widget": "ویدجێتتی مێدیا",

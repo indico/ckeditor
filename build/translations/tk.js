@@ -96,6 +96,7 @@
     "Light green": "Açyk ýaşyl",
     "Light grey": "Açyk çal",
     Link: "Baglanyşyk",
+    "Link image": "Surat baglanyşygy",
     "Link URL": "URL baglanyşygy",
     "Media URL": "Media URL",
     "media widget": "media widjeti",
