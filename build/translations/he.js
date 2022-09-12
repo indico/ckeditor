@@ -99,6 +99,7 @@
     "Light green": "ירוק בהיר",
     "Light grey": "אפור בהיר",
     Link: "קישור",
+    "Link image": "קישור תמונה",
     "Link URL": "קישור כתובת אתר",
     "Match case": "התאם רישיות",
     "Media URL": "כתובת URL של מדיה",

@@ -100,6 +100,7 @@
     "Light green": "Hellgrün",
     "Light grey": "Hellgrau",
     Link: "Link",
+    "Link image": "Bild verlinken",
     "Link URL": "Link Adresse",
     "Match case": "Groß-/Kleinschreibung beachten",
     "Media URL": "Medien-URL",

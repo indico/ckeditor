@@ -99,6 +99,7 @@
     "Light green": "밝은 초록색",
     "Light grey": "밝은 회색",
     Link: "링크",
+    "Link image": "사진 링크",
     "Link URL": "링크 주소",
     "Match case": "대/소문자 구분",
     "Media URL": "미디어 URL",

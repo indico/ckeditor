@@ -100,6 +100,7 @@
     "Light green": "Lysegrønn",
     "Light grey": "Lysegrå",
     Link: "Lenke",
+    "Link image": "Bildelenke",
     "Link URL": "Lenke-URL",
     "Match case": "Skill mellom store og små bokstaver",
     "Media URL": "Media-URL",

@@ -99,6 +99,7 @@
     "Light green": "亮綠色",
     "Light grey": "亮灰色",
     Link: "連結",
+    "Link image": "圖片連結",
     "Link URL": "連結˙ URL",
     "Match case": "大小寫需相符",
     "Media URL": "影音網址",

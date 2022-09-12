@@ -95,6 +95,7 @@
     "Light green": "Och yashil",
     "Light grey": "Och kulrang",
     Link: "Havola",
+    "Link image": "Rasmga havola",
     "Link URL": '"Havola URL',
     "Media URL": "Media URL manzili",
     "media widget": "media vidjeti",

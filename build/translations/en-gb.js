@@ -91,6 +91,7 @@
     "Light green": "Light green",
     "Light grey": "Light grey",
     Link: "Link",
+    "Link image": "",
     "Link URL": "Link URL",
     "Media URL": "Media URL",
     "media widget": "Media widget",

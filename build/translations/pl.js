@@ -100,6 +100,7 @@
     "Light green": "Jasnozielony",
     "Light grey": "Jasnoszary",
     Link: "Wstaw odnośnik",
+    "Link image": "Wstaw odnośnik do obrazka",
     "Link URL": "Adres URL",
     "Match case": "Uwzględnij wielkość liter",
     "Media URL": "Adres URL",

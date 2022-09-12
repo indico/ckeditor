@@ -47,6 +47,7 @@
     "Light green": "",
     "Light grey": "",
     Link: "Ligilo",
+    "Link image": "",
     "Link URL": "URL de la ligilo",
     Next: "",
     "Numbered List": "Numerita Listo",

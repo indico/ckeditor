@@ -99,6 +99,7 @@
     "Light green": "Gaiši zaļš",
     "Light grey": "Gaiši pelēks",
     Link: "Saite",
+    "Link image": "Ievietot saiti uz attēla",
     "Link URL": "Saites URL",
     "Match case": "Precīza atbilstība",
     "Media URL": "Medija URL",

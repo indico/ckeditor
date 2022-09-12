@@ -91,6 +91,7 @@
     "Light green": "हल्का हरियो",
     "Light grey": "हल्का खैरो",
     Link: "लिङ्क",
+    "Link image": "",
     "Link URL": "लिङ्क यूआरएल",
     "Media URL": "मिडिया यूआरएल",
     "media widget": "मिडिया विजेट",

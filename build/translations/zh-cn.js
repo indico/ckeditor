@@ -99,6 +99,7 @@
     "Light green": "浅绿色",
     "Light grey": "浅灰色",
     Link: "超链接",
+    "Link image": "链接图片",
     "Link URL": "链接网址",
     "Match case": "区分大小写",
     "Media URL": "媒体URL",

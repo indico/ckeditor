@@ -100,6 +100,7 @@
     "Light green": "สีเขียวอ่อน",
     "Light grey": "สีเทาอ่อน",
     Link: "ลิงก์",
+    "Link image": "ลิงก์ภาพ",
     "Link URL": "ลิงก์ URL",
     "Match case": "ตัวใหญ่-เล็ก ตรงกัน",
     "Media URL": "URL สื่อ",
