@@ -47,6 +47,8 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "Rediger lenke",
+    "Editor block content toolbar": "",
+    "Editor contextual toolbar": "",
     "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Skriv inn bildetekst",

@@ -21,6 +21,8 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "",
+    "Editor block content toolbar": "",
+    "Editor contextual toolbar": "",
     "Editor editing area: %0": "",
     "Editor toolbar": "",
     "Enter image caption": "Sartu irudiaren epigrafea",
