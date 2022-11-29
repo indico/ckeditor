@@ -1,6 +1,6 @@
 !(function (e) {
-  const a = (e.sk = e.sk || {});
-  (a.dictionary = Object.assign(a.dictionary || {}, {
+  const o = (e.sk = e.sk || {});
+  (o.dictionary = Object.assign(o.dictionary || {}, {
     "%0 of %1": "%0 z %1",
     "Align cell text to the bottom": "Zarovnať text bunky nadol",
     "Align cell text to the center": "Zarovnať text bunky na stred",
@@ -48,8 +48,12 @@
     "Dropdown toolbar": "Panel nástrojov roletového menu",
     "Edit block": "Upraviť odsek",
     "Edit link": "Upraviť odkaz",
+    "Edit source": "Upraviť zdroj",
+    "Editor block content toolbar": "Panel s nástrojmi obsahu bloku editora",
+    "Editor contextual toolbar": "Kontextový panel nástrojov editora",
     "Editor editing area: %0": "Oblasť úprav editora: %0",
     "Editor toolbar": "Panel nástrojov editora",
+    "Empty snippet content": "Prázdny obsah kódu",
     "Enter image caption": "Vložte popis obrázka",
     Find: "Vyhľadať",
     "Find and replace": "Vyhľadať a nahradiť",
@@ -74,6 +78,7 @@
     "Horizontal text alignment toolbar":
       "Horizontálne zarovnanie textu v panely",
     "HTML object": "HTML objekt",
+    "HTML snippet": "Kód HTML",
     "Image resize list": "Zoznam možností zmeny veľkosti",
     "Image toolbar": "Panel nástrojov obrázka",
     "image widget": "widget obrázka",
@@ -83,6 +88,7 @@
     "Insert code block": "Vložte blok kódu",
     "Insert column left": "Vložiť stĺpec vľavo",
     "Insert column right": "Vložiť stĺpec vpravo",
+    "Insert HTML": "Vložiť kód HTML",
     "Insert image": "Vložiť obrázok",
     "Insert image via URL": "Vložiť obrázok pomocou URL",
     "Insert media": "Vložiť média",
@@ -112,15 +118,18 @@
     "Merge cells": "Zlúčiť bunky",
     Next: "Ďalšie",
     "Next result": "Nasledujúci výsledok",
+    "No preview available": "Náhľad nie je k dispozícii",
     None: "Žiadna",
     "Numbered List": "Číslovaný zoznam",
     "Open in a new tab": "Otvoriť v novej záložke",
     "Open link in new tab": "Otvoriť odkaz v novom okne",
+    "Open media in new tab": "Otvoriť médiá na novej karte",
     Orange: "Oranžová",
     Original: "Originál",
     Outset: "Vložená zvonku",
     Padding: "Vnútorný okraj",
     Paragraph: "Odsek",
+    "Paste raw HTML here...": "Sem vložte kód HTML...",
     "Paste the media URL in the input.": "Vložte URL média.",
     "Plain text": "Čistý text",
     Previous: "Predchádzajúce",
@@ -142,6 +151,7 @@
     "Right aligned image": "Zarovnať vpravo",
     Row: "Riadok",
     Save: "Uložiť",
+    "Save changes": "Uložiť zmeny",
     "Select all": "Označiť všetko",
     "Select column": "Vybrať stĺpec",
     "Select row": "Vybrať riadok",
@@ -193,7 +203,7 @@
     "Wrap text": "Obtekanie textu",
     Yellow: "Žltá",
   })),
-    (a.getPluralForm = function (e) {
+    (o.getPluralForm = function (e) {
       return e % 1 == 0 && 1 == e
         ? 0
         : e % 1 == 0 && e >= 2 && e <= 4

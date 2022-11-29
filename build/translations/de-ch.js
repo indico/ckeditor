@@ -1,6 +1,6 @@
 !(function (e) {
-  const i = (e["de-ch"] = e["de-ch"] || {});
-  (i.dictionary = Object.assign(i.dictionary || {}, {
+  const n = (e["de-ch"] = e["de-ch"] || {});
+  (n.dictionary = Object.assign(n.dictionary || {}, {
     "%0 of %1": "",
     "Align cell text to the bottom": "",
     "Align cell text to the center": "",
@@ -48,8 +48,12 @@
     "Dropdown toolbar": "",
     "Edit block": "",
     "Edit link": "Link bearbeiten",
+    "Edit source": "Quelle bearbeiten",
+    "Editor block content toolbar": "",
+    "Editor contextual toolbar": "",
     "Editor editing area: %0": "",
     "Editor toolbar": "",
+    "Empty snippet content": "Codeschnipsel ohne Inhalt",
     "Enter image caption": "Bildunterschrift eingeben",
     "Font Background Color": "Hintergrundfarbe der Schrift",
     "Font Color": "Schriftfarbe",
@@ -69,6 +73,7 @@
     Height: "",
     "Horizontal line": "Horizontale Linie",
     "Horizontal text alignment toolbar": "",
+    "HTML snippet": "HTML-Codeschnipsel",
     "Image resize list": "Bildgrössen-Liste",
     "Image toolbar": "Bild Werkzeugleiste",
     "image widget": "Bild-Steuerelement",
@@ -78,6 +83,7 @@
     "Insert code block": "Code-Block einfügen",
     "Insert column left": "",
     "Insert column right": "",
+    "Insert HTML": "HTML einfügen",
     "Insert image": "Bild einfügen",
     "Insert image via URL": "Bild von URL einfügen",
     "Insert media": "Medium einfügen",
@@ -105,15 +111,18 @@
     "Merge cell up": "Zelle oben verbinden",
     "Merge cells": "Zellen verbinden",
     Next: "",
+    "No preview available": "Keine Vorschau verfügbar",
     None: "",
     "Numbered List": "Nummerierte Liste",
     "Open in a new tab": "In neuem Tab öffnen",
     "Open link in new tab": "Link in neuem Tab öffnen",
+    "Open media in new tab": "",
     Orange: "",
     Original: "Original",
     Outset: "",
     Padding: "",
     Paragraph: "Absatz",
+    "Paste raw HTML here...": "HTML-Code hier einfügen…",
     "Paste the media URL in the input.":
       "Medien-URL in das Eingabefeld einfügen.",
     "Plain text": "Nur Text",
@@ -132,6 +141,7 @@
     "Right aligned image": "rechtsbündiges Bild",
     Row: "Zeile",
     Save: "Speichern",
+    "Save changes": "Änderungen speichern",
     "Select all": "Alles auswählen",
     "Select column": "",
     "Select row": "",
@@ -176,7 +186,7 @@
     "Wrap text": "",
     Yellow: "",
   })),
-    (i.getPluralForm = function (e) {
+    (n.getPluralForm = function (e) {
       return 1 != e;
     });
 })(window.CKEDITOR_TRANSLATIONS || (window.CKEDITOR_TRANSLATIONS = {}));
