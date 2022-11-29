@@ -20,6 +20,7 @@ import FullScreen from "ckeditor5-full-screen/src/fullscreen.js";
 import GeneralHtmlSupport from "@ckeditor/ckeditor5-html-support/src/generalhtmlsupport.js";
 import Heading from "@ckeditor/ckeditor5-heading/src/heading.js";
 import HorizontalLine from "@ckeditor/ckeditor5-horizontal-line/src/horizontalline.js";
+import HtmlEmbed from "@ckeditor/ckeditor5-html-embed/src/htmlembed";
 import Image from "@ckeditor/ckeditor5-image/src/image.js";
 import ImageBlockEditing from "@ckeditor/ckeditor5-image/src/image/imageblockediting.js";
 import ImageCaption from "@ckeditor/ckeditor5-image/src/imagecaption.js";
@@ -75,6 +76,7 @@ Editor.builtinPlugins = [
   GeneralHtmlSupport,
   Heading,
   HorizontalLine,
+  HtmlEmbed,
   Image,
   ImageBlockEditing,
   ImageCaption,
